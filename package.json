@@ -1,0 +1,33 @@
+{
+  "name": "TemporaryChat",
+  "version": "1.0.0",
+  "description": "TemporaryChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeth0ven/TemporaryChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeth0ven/TemporaryChat/issues"
+  },
+  "homepage": "https://github.com/beeth0ven/TemporaryChat#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.11.1",
+    "babel-cli": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
